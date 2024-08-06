@@ -7,4 +7,4 @@ This web page introduces **Bankist**, a modern, minimalist digital bank. Here ar
 - **Testimonials**: Highlights positive feedback from users around the world.
 - **Call to Action**: Encourages users to open a free account today.
 
-Would you like more details on any specific feature?
+@$https://adarsh47-bug.github.io/Bankist/
