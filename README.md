@@ -1,6 +1,6 @@
 # Bankist
 
-##This web page introduces **Bankist**, a modern, minimalist digital bank. Here are the key points:
+This web page introduces **Bankist**, a modern, minimalist digital bank. Here are the key points:
 
 - **Features**: Offers a 100% digital banking experience, free debit card, and tools to help your money grow[^1^][1].
 - **Operations**: Provides instant transfers, loans, and account closing with no fees.
